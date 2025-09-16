@@ -1,0 +1,39 @@
+Diabetes (Type 2)
+
+Metrics: Glucose level, BMI, age, blood pressure, insulin, family history.
+
+Heart Disease / Cardiovascular Disease
+
+Metrics: Cholesterol, blood pressure, ECG results, chest pain type, age, resting heart rate.
+
+Hypertension (High Blood Pressure)
+
+Metrics: Age, weight, BMI, lifestyle habits, family history.
+
+Chronic Kidney Disease (CKD)
+
+Metrics: Serum creatinine, blood urea, hemoglobin, blood pressure, potassium levels.
+
+Liver Disease (e.g., Hepatitis, Cirrhosis, Fatty Liver)
+
+Metrics: ALT/AST levels, bilirubin, albumin, alkaline phosphatase, age.
+
+Stroke Risk
+
+Metrics: Blood pressure, cholesterol, age, diabetes history, smoking habits.
+
+Parkinson’s Disease
+
+Metrics: Voice measurements, hand tremor readings, motor function tests.
+
+Alzheimer’s Disease (early detection)
+
+Metrics: Cognitive test scores, memory scores, demographic features, genetic factors (like APOE).
+
+Cancer Risk Prediction (e.g., Breast Cancer)
+
+Metrics: Tumor size, cell shape/texture (from biopsy), age, family history.
+
+COVID-19 Severity / Outcome Prediction
+
+Metrics: Oxygen saturation, CRP, D-dimer, age, comorbidities, chest CT scores.
